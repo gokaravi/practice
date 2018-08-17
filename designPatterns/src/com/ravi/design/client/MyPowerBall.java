@@ -10,7 +10,7 @@ import java.util.TreeSet;
 
 /**
  * @author Ravi Goka
- * @email rgoka@nisum.com
+ * @email ravikumargoka@gmail.com
  * Jan 13, 2016
  */
 public class MyPowerBall {

@@ -7,7 +7,7 @@ import java.util.Arrays;
 
 /**
  * @author Ravi Goka
- * @email rgoka@nisum.com 
+ * @email ravikumargoka@gmail.com 
  * @date Aug 12, 2015
  */
 public class MyList<E> {

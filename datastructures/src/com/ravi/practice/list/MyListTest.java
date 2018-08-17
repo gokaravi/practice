@@ -5,7 +5,7 @@ package com.ravi.practice.list;
 
 /**
  * @author Ravi Goka
- * @email rgoka@nisum.com
+ * @email ravikumargoka@gmail.com
  * Aug 12, 2015
  */
 public class MyListTest {

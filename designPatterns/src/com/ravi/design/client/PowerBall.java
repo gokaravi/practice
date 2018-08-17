@@ -10,7 +10,7 @@ import java.util.Set;
 
 /**
  * @author Ravi Goka
- * @email rgoka@nisum.com Jan 12, 2016
+ * @email ravikumargoka@gmail.com Jan 12, 2016
  */
 public class PowerBall {
 
